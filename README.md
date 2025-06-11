@@ -10,7 +10,7 @@ Build & Deploy a Blockchain Web3 Chat DApp | Solidity, Next.js, Wagmi – Full S
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-blockchain-web3-chat-dapp-or-solidity-next.js-wagmi-full-stack-project)
 
 #### Setup Video
 
