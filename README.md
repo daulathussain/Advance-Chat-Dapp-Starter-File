@@ -32,6 +32,15 @@ Create and deploy a fully functional Blockchain Web3 Chat DApp using Solidity Sm
 
 #BlockchainChatApp #Web3Project #Solidity #Nextjs #Wagmi #DecentralizedChat #CryptoChatDApp #FullStackWeb3
 
+####  CHAT DAPP COMPLET PROJECT
+
+```
+  WATCH: CHAT DAPP
+  Get : https://www.theblockchaincoders.com/sourceCode/blockchain-chat-dapp-project-source-code
+  SETUP: https://youtu.be/lURReDp5CR8?si=jKEMs8cjh8ISyA5f
+  VIDEO: https://youtu.be/yle9MMqY7yY?si=iK6pKAvnbC1N3xx7
+```
+
 #### Deploying Dapp
 
 ```
